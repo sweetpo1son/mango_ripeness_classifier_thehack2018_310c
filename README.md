@@ -1,6 +1,6 @@
 # mango_ripeness_classifier_thehack2018_310c
 <html>
-  <body> <h3>Demo video at : "hrefhttps://pan.baidu.com/s/1bwgSpsravH2Lv6hEPpd18Q"</h3>
+  <body> <h3>Demo video at : "https://pan.baidu.com/s/1bwgSpsravH2Lv6hEPpd18Q"</h3>
     <h4>python.version == 3.6</h4>
 
 <h3>gui_mango_classifier.py has the trained model built in. Run it in your terminal to have a try! </h3>
